@@ -58,5 +58,5 @@ mhujer_fio_api:
 Changelog
 ===========
 
-## 1.0.0 (??)
+## 1.0.0 (2015-12-01)
 - initial release

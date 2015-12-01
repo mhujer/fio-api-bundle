@@ -1,6 +1,6 @@
 {
     "name": "mhujer/fio-api-bundle",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Integrates mhujer/fio-api-php into Symfony",
     "keywords": [
         "fio",
