@@ -1,0 +1,27 @@
+{
+    "name": "mhujer/fio-api-bundle",
+    "version": "0.0.1",
+    "description": "Integrates mhujer/fio-api-php into Symfony",
+    "keywords": [
+        "fio",
+        "ebanking",
+        "symfony2",
+        "bundle"
+    ],
+    "type": "symfony-bundle",
+    "require": {
+        "mhujer/fio-api-php": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Hujer",
+            "email": "mhujer@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mhujer\\FioApiBundle\\": ""
+        }
+    }
+}
