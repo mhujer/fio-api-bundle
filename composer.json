@@ -4,12 +4,12 @@
     "keywords": [
         "fio",
         "ebanking",
-        "symfony2",
+        "symfony3",
         "bundle"
     ],
     "type": "symfony-bundle",
     "require": {
-        "mhujer/fio-api-php": "^2.0"
+        "mhujer/fio-api-php": "~4.0"
     },
     "license": "MIT",
     "authors": [

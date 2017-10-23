@@ -1,6 +1,6 @@
 MhujerFioApiBundle
 ====================
-This bundle wraps [mhujer/fio-api-php](https://github.com/mhujer/fio-api-php) for Symfony 2.
+This bundle wraps [mhujer/fio-api-php](https://github.com/mhujer/fio-api-php) for Symfony 3.
 
 Installation
 ============
