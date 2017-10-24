@@ -58,5 +58,8 @@ mhujer_fio_api:
 Changelog
 ===========
 
+## 2.0.0 (2017-10-23)
+- add Symfony 3 + fio-api-php 4
+
 ## 1.0.0 (2015-12-01)
 - initial release
